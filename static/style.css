@@ -1,0 +1,14 @@
+.container{
+	width: 400px;
+	height: 400px;
+	padding: 10px 10px 10px 10px;
+	font-family: 'Architects Daughter';
+	text-align: center;
+}
+
+h1{
+	color: black;
+	font-family: 'Architects Daughter';
+	padding-left: 30px;
+	
+}
